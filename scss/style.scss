@@ -1,0 +1,18 @@
+/*
+* This is the file where we add our own style below the imports.
+*/
+
+.progress {
+    margin-bottom: 20px;
+}
+$theme-colors: (
+  "primary": #ff4136
+);
+
+@import "variables";
+@import "../vendor/bootstrap/scss/bootstrap.scss";
+
+
+
+
+
