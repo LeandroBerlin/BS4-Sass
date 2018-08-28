@@ -5,4 +5,4 @@ https://hackmd.io/s/HJmF9fWwQ)
 [Classroom Assignment](
 https://classroom.github.com/a/j7Tuu4cX)
 
-[Bootstrap 4 Intro Slides](./blob/master/Bootstrap4.pdf)
+[Bootstrap 4 Intro Slides](./Bootstrap4.pdf)
